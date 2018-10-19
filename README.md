@@ -1,7 +1,7 @@
 # MNIST Classification
 ### PCA, LDA, SVM classification on MNIST dataset
-##### Ruoteng Li
-##### 11.11.2016
+##### Aravind Madan Mohan
+##### 25.04.2018
 
 #### 0. Installation and Dataset
 - In order to run this script, please make sure MNIST dataset is available at ```mnist``` folder. You may want to go [MNIST Database](http://yann.lecun.com/exdb/mnist/) to download: 
